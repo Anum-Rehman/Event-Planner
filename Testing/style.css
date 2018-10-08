@@ -1,0 +1,52 @@
+#nav-bar{
+    background-color: #e9f0f4; 
+}
+.info{
+    color: black!important;
+    text-decoration: none;
+}
+.info:hover{
+    color: #8a1a81!important;
+    text-decoration: none;
+}
+#button{
+     color: #8a1a81!important;
+     width: 90%!important;
+     background-color: #e9f0f4!important;
+     font-family: 'Times New Roman', Times, serif!important;
+     font-size: 20px!important;
+     height: 5%!important;
+     border: 2px solid #8a1a81!important;
+     border-radius: 8px!important;
+}
+.links{
+     color: #8a1a81!important;
+}
+.links:hover{
+    text-decoration: none;
+    background-color: #e9f0f4!important;
+    color: #8a1a81;  
+    border-radius: 8%;
+    padding: 10px;
+}
+.links:hover div ul li{
+    display: block;
+}
+.event-bar{
+    background-color: #d5d5d5!important;
+    border-color: #d5d5d5!important;
+}
+ /* Popu Signup */
+ .modal-header, h4, .close {
+      background-color: #5cb85c;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+  .slides{
+      width: 100%;
+      height: 450px!important;
+  }
